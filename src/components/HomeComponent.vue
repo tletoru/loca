@@ -33,6 +33,7 @@
     <img src="@/assets/Picture4.png"  style="width:50%;"><br>
     <img src="@/assets/Picture5.png"  style="width:100%;"><br>
     <img src="@/assets/Picture6.png"  style="width:100%;"><br>
+    test
   </div>
 </template>
 
